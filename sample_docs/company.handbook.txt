@@ -1,0 +1,12 @@
+Welcome to ExampleCorp!
+
+Leave Policy:
+- Casual leave: 12 days/year
+- Sick leave: 10 days/year
+- Maternity leave: 26 weeks
+- Paternity leave: 15 days
+
+Code of Conduct:
+- Be respectful
+- Protect company data
+- Follow security best practices

@@ -1,0 +1,3 @@
+Retrieval-Augmented Generation (RAG) augments an LLM with a retriever.
+Documents are chunked, embedded as vectors, stored in a vector DB, and the top-k chunks
+are retrieved to ground the model's answers, improving factual accuracy.

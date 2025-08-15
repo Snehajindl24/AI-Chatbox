@@ -1,0 +1,36 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Environment & config
+.env
+.env.local
+*.env
+
+# Vector store persistence
+vector_store/
+
+# Streamlit generated
+.streamlit/
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Node (if we add React frontend later)
+node_modules/
+build/
+dist/
