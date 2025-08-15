@@ -67,12 +67,19 @@ The repository is organized into a clean and modular structure:
 
 .
 ├── .env                 # Environment variables for API keys , i have not added mine here you can just copy .env.example
+
 ├── .env.example         # Template for .env file
+
 ├── .gitignore           # Files and directories to ignore
+
 ├── README.md            # You are here!
+
 ├── app.py               # Main Streamlit application
+
 ├── config.py            # Application configuration
+
 ├── requirements.txt     # Python dependencies
+
 └── utils/
     ├── __init__.py
     ├── chunking.py      # Logic for splitting documents into chunks
@@ -109,3 +116,4 @@ OPENAI_EMBED_MODEL: The embedding model to be used (e.g., text-embedding-3-small
 
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
+
